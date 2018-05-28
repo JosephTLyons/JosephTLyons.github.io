@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Construction on The Lyons' Den Software Website Beings!"
+title:  "Construction on The Lyons' Den Software Website Begins!"
 date:   2018-05-28 02:31:54 -0400
 categories: jekyll update
 ---

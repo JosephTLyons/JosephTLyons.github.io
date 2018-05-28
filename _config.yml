@@ -23,7 +23,7 @@ github_username:  JosephTLyons
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: midnight
 plugins:
   - jekyll-feed
 

@@ -1,25 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Construction on The Lyons' Den Software Website Beings!"
 date:   2018-05-28 02:31:54 -0400
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Until now, all of my products and product details were hosted through Google Docs and Google Drive.  A week or so ago, I received private message from a user who was having trouble accessing the downloads from Google Drive.  Apparently, there is a bug that exists between newer Safari versions (specifically those that have the new Intelligent Tracking Prevention feature) and Google Drive that causes endless redirects.  I had been putting off building a website for my products for awhile, but I think now is a great time to start digging into it.  I'm not sure how long it will be until it is fully complete, but I will continue to work on it this summer.  Thanks!

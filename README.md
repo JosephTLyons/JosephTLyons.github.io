@@ -1,2 +1,3 @@
 # The Lyons' Den Software
-Simple. Effective. Useable.
+
+This repository holds the source code for my personal [website](https://thelyonsdensoftware.com).

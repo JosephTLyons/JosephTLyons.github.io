@@ -16,4 +16,6 @@ Price - **5 USD**
 
 Price - **Free**
 
+---
+
 *The graphical user interfaces screenshots may not be scaled 1:1 with their actual size.*

@@ -10,6 +10,8 @@ permalink: /products/
 
 **Description**:
 
+**Features**:
+
 **Price**: 5 USD
 
 **Downloads**:
@@ -21,6 +23,8 @@ permalink: /products/
 ![](https://github.com/JosephTLyons/GUI-Delay-Time-Calculator/blob/master/Images/Screenshot.png?raw=true)
 
 **Description**:
+
+**Features**:
 
 **Price**: Free
 

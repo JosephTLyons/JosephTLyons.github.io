@@ -10,6 +10,8 @@ permalink: /products/
 
 Price - **5 USD**
 
+---
+
 # Delay Time Calculator
 
 ![](https://github.com/JosephTLyons/GUI-Delay-Time-Calculator/blob/master/Images/Screenshot.png?raw=true)

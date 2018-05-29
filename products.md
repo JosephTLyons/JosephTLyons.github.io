@@ -8,7 +8,7 @@ permalink: /products/
 
 ![](https://github.com/JosephTLyons/Track-Notes/blob/master/Images/Screenshot.png?raw=true)
 
-**Description**:  
+**Description**:  A simple AU/VST plugin to hold your session and track notes.
 
 **Features**:
 
@@ -33,7 +33,7 @@ permalink: /products/
 
 ![](https://github.com/JosephTLyons/GUI-Delay-Time-Calculator/blob/master/Images/Screenshot.png?raw=true)
 
-**Description**:
+**Description**: A simple application that calculates delay and reverb pre-delay times based on the tempo the user inputs.
 
 **Features**:
 

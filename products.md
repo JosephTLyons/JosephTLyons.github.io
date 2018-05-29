@@ -13,6 +13,15 @@ permalink: /products/
 **Features**:
 
 **Compatibility**:
+- [x] Windows OS 7+, 64 Bit
+    - [x] VST
+    - [ ] AAX
+- [x] Mac OS 10.6+, 64 Bit
+    - [x] VST
+    - [x] AU
+    - [ ] AAX
+
+**NOTE**:
 
 **Price**: 5 USD
 
@@ -29,6 +38,8 @@ permalink: /products/
 **Features**:
 
 **Compatibility**:
+- [x] Windows OS 7+, 64 Bit
+- [x] Mac OS 10.6+, 64 Bit
 
 **Price**: Free
 

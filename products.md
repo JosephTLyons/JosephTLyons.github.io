@@ -8,7 +8,11 @@ permalink: /products/
 
 ![](https://github.com/JosephTLyons/Track-Notes/blob/master/Images/Screenshot.png?raw=true)
 
-Price - **5 USD**
+**Description**:
+
+**Price**: 5 USD
+
+**Downloads**:
 
 ---
 
@@ -16,7 +20,11 @@ Price - **5 USD**
 
 ![](https://github.com/JosephTLyons/GUI-Delay-Time-Calculator/blob/master/Images/Screenshot.png?raw=true)
 
-Price - **Free**
+**Description**:
+
+**Price**: Free
+
+**Downloads**:
 
 ---
 

@@ -7,10 +7,10 @@ permalink: /products/
 # Tools for the Audio Engineer
 ---
 
-## Track Notes
+### Track Notes
 ![](https://github.com/JosephTLyons/Track-Notes/blob/master/Images/Screenshot.png)
 
-## Delay Time Calculator
+### Delay Time Calculator
 
 ![](https://github.com/JosephTLyons/GUI-Delay-Time-Calculator/blob/master/Images/Screenshot.png)
 

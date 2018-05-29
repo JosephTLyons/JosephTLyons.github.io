@@ -8,9 +8,11 @@ permalink: /products/
 
 ![](https://github.com/JosephTLyons/Track-Notes/blob/master/Images/Screenshot.png?raw=true)
 
-**Description**:
+**Description**:  
 
 **Features**:
+
+**Compatibility**:
 
 **Price**: 5 USD
 
@@ -25,6 +27,8 @@ permalink: /products/
 **Description**:
 
 **Features**:
+
+**Compatibility**:
 
 **Price**: Free
 

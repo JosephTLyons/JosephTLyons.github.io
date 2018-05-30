@@ -47,4 +47,4 @@ permalink: /products/
 
 ---
 
-*The graphical user interfaces screenshots may not be scaled 1:1 with their actual size.*
+*The graphical user interface screenshots may not be scaled 1:1 with their actual size.*

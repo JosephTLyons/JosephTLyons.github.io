@@ -13,6 +13,7 @@ permalink: /products/
 **Features**:
 
 **Compatibility**:
+
 - Windows OS 7+, 64 Bit
     - VST
 - Mac OS 10.6+, 64 Bit
@@ -43,6 +44,7 @@ permalink: /products/
 - Support for keyboard quick keys (check README for details)
 
 **Compatibility**:
+
 - Windows OS 7+, 64 Bit
 - Mac OS 10.6+, 64 Bit
 

@@ -13,13 +13,11 @@ permalink: /products/
 **Features**:
 
 **Compatibility**:
-- [x] Windows OS 7+, 64 Bit
-    - [x] VST
-    - [ ] AAX
-- [x] Mac OS 10.6+, 64 Bit
-    - [x] VST
-    - [x] AU
-    - [ ] AAX
+- Windows OS 7+, 64 Bit
+    - VST
+- Mac OS 10.6+, 64 Bit
+    - VST
+    - AU
 
 **NOTE**:
 
@@ -38,8 +36,8 @@ permalink: /products/
 **Features**:
 
 **Compatibility**:
-- [x] Windows OS 7+, 64 Bit
-- [x] Mac OS 10.6+, 64 Bit
+- Windows OS 7+, 64 Bit
+- Mac OS 10.6+, 64 Bit
 
 **Price**: Free
 

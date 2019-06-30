@@ -28,6 +28,10 @@ permalink: /products/
 
 - [Demo Version 1.2.0](https://github.com/JosephTLyons/Track-Notes/releases/download/v1.2.0/The.Lyons.Den.Track.Notes.-.v1.2.0.Demo.zip)
 
+**Notes**:
+- The code for Track Notes can be found [here](https://github.com/JosephTLyons/Track-Notes).  It is open-source software licensed under GNU GPLv3.
+- More in-depth documentation is bundled with the download.
+
 ---
 
 # Delay Time Calculator

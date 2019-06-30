@@ -26,6 +26,8 @@ permalink: /products/
 
 **Downloads**:
 
+- [Demo Version 1.2.0](https://github.com/JosephTLyons/Track-Notes/releases/download/v1.2.0/The.Lyons.Den.Track.Notes.-.v1.2.0.Demo.zip)
+
 ---
 
 # Delay Time Calculator

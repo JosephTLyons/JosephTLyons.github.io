@@ -39,7 +39,7 @@ permalink: /products/
 - Delay times calculated for: 1, 1/2, 1/4, 1/8, 1/16, 1/32, 1/64, and 1/128 note values
 - Each note value has associated values for Normal, Dotted, and Triplet
 - Option to show values in terms of milliseconds or Hertz
-- Ability to calculate tempo from entering values directly into the ms and Hz fields. (To be released)
+- Ability to calculate tempo from entering values directly into the ms and Hz fields. (**To be released**)
 - Choose from whole, tenths, or hundredth of a BPM, for tempo increments
 - Tap to set tempo
 - Fast manipulation of BPM values (rounding, doubling, halving, and more)

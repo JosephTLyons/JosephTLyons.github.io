@@ -73,7 +73,8 @@ permalink: /products/
 
 **Notes**:
 - The code for Delay Time Calculator can be found [here](https://github.com/JosephTLyons/GUI-Delay-Time-Calculator).  It is open-source software licensed under GNU GPLv3.
-- More in-depth documentation is bundled with the download
+- More in-depth documentation is bundled with the download.
+
 ---
 
 *The graphical user interface screenshots may not be scaled 1:1 with their actual size.*

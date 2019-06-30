@@ -20,7 +20,7 @@ permalink: /products/
     - VST
     - AU
 
-**NOTE**:
+**NOTE**: All purchases are manually processed.  
 
 **Price**: 5 USD
 

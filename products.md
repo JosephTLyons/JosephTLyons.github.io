@@ -58,15 +58,23 @@ permalink: /products/
     - [Version 1.7.1](https://github.com/JosephTLyons/GUI-Delay-Time-Calculator/releases/download/1.7.1/The.Lyons.Den.Delay.Time.Calculator.V.1.7.1.zip)
 
 - Previous Versions:
-    - [Version 1.7.0](https://github.com/JosephTLyons/GUI-Delay-Time-Calculator/releases/download/1.7.0/The.Lyons.Den.Delay.Time.Calculator.V.1.7.0.zip) \
-    - [Version 1.6.0](https://github.com/JosephTLyons/GUI-Delay-Time-Calculator/releases/download/1.6.0/The.Lyons.Den.Delay.Time.Calculator.V.1.6.0.zip) \
-    - [Version 1.5.0](https://goo.gl/WqjA45) \
-    - [Version 1.4.0](https://github.com/JosephTLyons/GUI-Delay-Time-Calculator/releases/download/1.4/The.Lyons.Den.Delay.Time.Calculator.V.1.4.zip) \
-    - [Version 1.3.0](https://github.com/JosephTLyons/GUI-Delay-Time-Calculator/releases/download/1.3/The.Lyons.Den.Delay.Time.Calculator.V.1.3.zip) \
-    - [Version 1.2.0](https://github.com/JosephTLyons/GUI-Delay-Time-Calculator/releases/download/1.2/The.Lyons.Den.Delay.Time.Calculator.V.1.2.zip) \
-    - [Version 1.1.1](https://github.com/JosephTLyons/GUI-Delay-Time-Calculator/releases/download/1.1.1/The.Lyons.Den.Delay.Time.Calculator.V.1.1.1.zip) \
-    - [Version 1.1.0](https://github.com/JosephTLyons/GUI-Delay-Time-Calculator/releases/download/1.1/The.Lyons.Den.Delay.Time.Calculator.1.1.zip) \
-    - [Version 1.0.0 ](https://github.com/JosephTLyons/GUI-Delay-Time-Calculator/releases/download/1.0/Delay.Time.Calculator.app.zip) \
+    - [Version 1.7.0](https://github.com/JosephTLyons/GUI-Delay-Time-Calculator/releases/download/1.7.0/The.Lyons.Den.Delay.Time.Calculator.V.1.7.0.zip)
+
+    - [Version 1.6.0](https://github.com/JosephTLyons/GUI-Delay-Time-Calculator/releases/download/1.6.0/The.Lyons.Den.Delay.Time.Calculator.V.1.6.0.zip)
+
+    - [Version 1.5.0](https://goo.gl/WqjA45)
+
+    - [Version 1.4.0](https://github.com/JosephTLyons/GUI-Delay-Time-Calculator/releases/download/1.4/The.Lyons.Den.Delay.Time.Calculator.V.1.4.zip)
+
+    - [Version 1.3.0](https://github.com/JosephTLyons/GUI-Delay-Time-Calculator/releases/download/1.3/The.Lyons.Den.Delay.Time.Calculator.V.1.3.zip)
+
+    - [Version 1.2.0](https://github.com/JosephTLyons/GUI-Delay-Time-Calculator/releases/download/1.2/The.Lyons.Den.Delay.Time.Calculator.V.1.2.zip)
+
+    - [Version 1.1.1](https://github.com/JosephTLyons/GUI-Delay-Time-Calculator/releases/download/1.1.1/The.Lyons.Den.Delay.Time.Calculator.V.1.1.1.zip)
+
+    - [Version 1.1.0](https://github.com/JosephTLyons/GUI-Delay-Time-Calculator/releases/download/1.1/The.Lyons.Den.Delay.Time.Calculator.1.1.zip)
+
+    - [Version 1.0.0 ](https://github.com/JosephTLyons/GUI-Delay-Time-Calculator/releases/download/1.0/Delay.Time.Calculator.app.zip)
 
 **Notes**:
 - The code for Delay Time Calculator can be found [here](https://github.com/JosephTLyons/GUI-Delay-Time-Calculator).  It is open-source software licensed under GNU GPLv3.
